@@ -10,7 +10,7 @@ Prueba de Ingeniero de Datos Banistmo (SQL + Python)
 
 # Valor de las preguntas:
 La prueba vale un total de 100 puntos y se estructura de la siguiente forma:
-Pregunta 1 (5 pts): problema de SQL nivel básico
+* Pregunta 1 (5 pts): problema de SQL nivel básico
 * Pregunta 2 (15 pts): problema de SQL nivel medio #1
 * Pregunta 3 (20 pts): problema de SQL nivel medio #2
 * Pregunta 4 (20 pts): problema de SQL, programación y visualización
