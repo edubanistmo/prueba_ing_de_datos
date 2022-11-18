@@ -20,3 +20,5 @@ La prueba vale un total de 100 puntos y se estructura de la siguiente forma:
 * Pregunta 4 (20 pts): problema de SQL, programación y visualización
 * Pregunta 5 (40 pts): Problema de programación orientada a objetos y análisis de datos
 
+# Recomendaciones
+* Utilizar VS Code editor o el editor de tu preferencia.
