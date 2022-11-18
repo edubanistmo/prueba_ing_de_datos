@@ -2,9 +2,9 @@
 Prueba de Ingeniero de Datos Banistmo (SQL + Python)
 
 # Instrucciones
-* La prueba se encuentra en el archivo adjunto prueba_ingeniero_de_datos.zip
+* Clona el repositorio en tu cuenta de github, o descarga el codigo en tu máquina.
 * Las preguntas que debes resolver se encuentran dentro de el jupyter notebook main.ipynb
-* No crear archivos adicionales
+* No crear archivos adicionales.
 * Resolver todos los problemas en las celdas destinadas correspondientes.
 * La prueba dura aproximadamente de 3 a 4 horas en resolver.
 
