@@ -11,6 +11,7 @@ Prueba de Ingeniero de Datos Banistmo (SQL + Python)
 # Instrucciones de Entrega
 * La entrega se realiza por medio de github.
 * brindar el enlace a tu repositorio de github con la prueba resuelta.
+* el repositorio debe contar con los mismos archivos originales con main.ipynb desarrollado.
 
 # Valor de las preguntas:
 La prueba vale un total de 100 puntos y se estructura de la siguiente forma:
